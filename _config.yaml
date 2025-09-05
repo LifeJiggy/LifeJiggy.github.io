@@ -1,0 +1,9 @@
+theme: jekyll-theme-hacker
+title: "root💀ArkhAngelLifeJiggy:~#"
+description: "Hack. Eat. Sleep. Repeat!!!"
+🔐 "Many roles, one goal": "Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer • Prompt Alchemist"
+show_downloads: false
+show_repo: false
+
+plugins:
+  - jekyll-sitemap

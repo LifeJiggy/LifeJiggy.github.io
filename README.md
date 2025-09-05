@@ -1,4 +1,4 @@
-
+just
 💀 Welcome to root💀ArkhAngelLifeJiggy:~#
 
 Hack. Eat. Sleep. Repeat!!!
@@ -26,7 +26,7 @@ Developers building secure-by-design applications
 Open-source projects focused on security tooling or vulnerability research
 AI engineers pushing the edge of LLM security & red teaming
 
-I’m looking to team up on open-source cybersecurity projects, bug bounty tools, or ethical hacking initiatives. Got an idea for a tool, exploit, or vuln research? Let’s break some code together! DM me on X or email (your@email.here).
+I’m looking to team up on open-source cybersecurity projects, bug bounty tools, or ethical hacking initiatives. Got an idea for a tool, exploit, or vuln research? Let’s break some code together!
 
 📂 Projects
 

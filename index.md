@@ -12,23 +12,34 @@ Hack. Eat. Sleep. Repeat!!!
 I’m ArkhAngelLifeJiggy a bug bounty hunter and web security enthusiast diving deep into the dark corners of code. I break systems to understand them, hunt critical vulnerabilities (P1 & P2), and build tools to empower the security community.
 
 Passion: Cybersecurity, with a focus on web application security and ethical hacking.
+
 Skills: Python, JavaScript, vulnerability assessment (XSS, SQLi, RCE), WAF bypass, and AI-driven security tools.
+
 Platforms: Bugcrowd, HackerOne, and open-source projects.
+
 Vibe: Breaking things to build them stronger. Always chasing the next exploit.
+
 
 🌱 Currently Learning
 
 Ethical Hacking: Mastering advanced techniques for penetration testing, privilege escalation, and secure coding.
+
 Exploring AI integration in cybersecurity for automated vuln scanning and reporting.
+
 
 💞️ Let’s Collaborate
 
 Security researchers on bug bounty teams or private programs
+
 Developers building secure-by-design applications
+
 Open-source projects focused on security tooling or vulnerability research
+
 AI engineers pushing the edge of LLM security & red teaming
 
+
 I’m looking to team up on open-source cybersecurity projects, bug bounty tools, or ethical hacking initiatives. Got an idea for a tool, exploit, or vuln research? Let’s break some code together!
+
 
 📂 Projects
 

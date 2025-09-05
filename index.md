@@ -1,13 +1,15 @@
 layout: default
+
 💀 Welcome to root💀ArkhAngelLifeJiggy:~#
 
 Hack. Eat. Sleep. Repeat!!!
 
 🔐 "Many roles, one goal": "Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer • Prompt Alchemist"
 
+
 🛠 About Me
+
 I’m ArkhAngelLifeJiggy a bug bounty hunter and web security enthusiast diving deep into the dark corners of code. I break systems to understand them, hunt critical vulnerabilities (P1 & P2), and build tools to empower the security community.
-👀 About Me
 
 Passion: Cybersecurity, with a focus on web application security and ethical hacking.
 Skills: Python, JavaScript, vulnerability assessment (XSS, SQLi, RCE), WAF bypass, and AI-driven security tools.

@@ -71,7 +71,9 @@ CyberReportGenAI: An AI-driven tool focused on generating comprehensive bug boun
 📡 Connect~#
 
 GitHub: @LifeJiggy
+
 Email: [Bloomtonjovish@gmail.com] | [emperorstephenpee001@gmail.com]
+
 X: @ArkhLifeJiggy
 
 
